@@ -1,0 +1,19 @@
+Chat with AI,Reply,flag,username,timestamp
+write function to  add 2 numbers in python ,"Certainly! Here's a simple Python function that adds two numbers together.
+
+```python
+def add_numbers(a, b):
+    """"""
+    Returns the sum of two numbers
+    """"""
+    return a + b
+```
+
+You can call this function by passing in two numbers as arguments like this:
+
+```python
+result = add_numbers(3, 4)
+print(result)
+```
+
+This will output `7`, which is the sum of 3 and 4.",,,2023-06-22 00:13:53.415010
